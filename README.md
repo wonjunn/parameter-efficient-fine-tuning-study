@@ -28,6 +28,10 @@
 
 </details>
 
+<details><summary> <strong> LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models </strong> <code>EMNLP 2023</code> <br> <a href="https://arxiv.org/abs/2304.01933"><img src="https://img.shields.io/badge/arXiv-2304.01933-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/AGI-Edgerunners/LLM-Adapters"><img src="https://img.shields.io/github/stars/AGI-Edgerunners/LLM-Adapters?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 <details><summary> <strong> A Comprehensive Analysis of Adapter Efficiency </strong> <code>ICML 2023</code> <br> <a href="https://arxiv.org/abs/2305.07491"><img src="https://img.shields.io/badge/arXiv-2305.07491-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/AI4Bharat/adapter-efficiency"><img src="https://img.shields.io/github/stars/AI4Bharat/adapter-efficiency?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
