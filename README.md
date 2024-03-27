@@ -16,15 +16,15 @@
 
 </details>
 
+<details><summary> <strong> Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2203.06904"><img src="https://img.shields.io/badge/arXiv-2203.06904-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/thunlp/OpenDelta"><img src="https://img.shields.io/github/stars/thunlp/OpenDelta?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
+
+</details>
+
 <details><summary> <strong> Parameter-Efficient Fine-Tuning Design Spaces </strong> <code>ICLR 2023</code> <code>#S4</code> <br> <a href="https://arxiv.org/abs/2301.01821"><img src="https://img.shields.io/badge/arXiv-2301.01821-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/amazon-science/peft-design-spaces"><img src="https://img.shields.io/github/stars/amazon-science/peft-design-spaces?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
 <details><summary> <strong> Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2303.15647"><img src="https://img.shields.io/badge/arXiv-2303.15647-b31b1b.svg?style=flat-square"></a> </summary>
-
-</details>
-
-<details><summary> <strong> Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models </strong> <code>Preprint</code> <br> <a href="https://arxiv.org/abs/2203.06904"><img src="https://img.shields.io/badge/arXiv-2203.06904-b31b1b.svg?style=flat-square"></a> <a href="https://github.com/thunlp/OpenDelta"><img src="https://img.shields.io/github/stars/thunlp/OpenDelta?style=flat-square&logo=github&logoColor=fff&labelColor=black"></a> </summary>
 
 </details>
 
